@@ -1,2 +1,6 @@
 #!bin/bash
+<<<<<<< HEAD
 echo "The school is open!"
+=======
+echo "The school is open!"
+>>>>>>> 11bdfce8a4250c34d2e320ab428fca04e01e5ea7
